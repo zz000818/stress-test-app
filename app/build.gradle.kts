@@ -58,7 +58,7 @@ dependencies {
 
     // OkHttp 5.0.0（2025年7月发布，独立 Android 包 com.squareup.okhttp5）
     // 注：OkHttp 5.x 将 Maven 坐标从 okhttp3 改为 okhttp5
-    implementation("com.squareup.okhttp5:okhttp:5.0.0")
+    implementation("com.squareup.okhttp3:okhttp:4.12.0")
 
     // Kotlin Coroutines 1.9.0 — 最新稳定版，支持结构化并发
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.9.0")
